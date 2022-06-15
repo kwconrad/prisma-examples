@@ -6,11 +6,11 @@
     "dev": "node src/index.js"
   },
   "dependencies": {
-    "@prisma/client": "3.16.0-dev.46",
+    "@prisma/client": "3.16.0-dev.47",
     "express": "4.18.1"
   },
   "devDependencies": {
-    "prisma": "3.16.0-dev.46"
+    "prisma": "3.16.0-dev.47"
   },
   "prisma": {
     "seed": "node prisma/seed.js"
